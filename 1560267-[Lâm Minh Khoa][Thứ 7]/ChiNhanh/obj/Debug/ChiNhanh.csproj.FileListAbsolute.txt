@@ -1,0 +1,10 @@
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\bin\Debug\ChiNhanh.exe.config
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\bin\Debug\ChiNhanh.exe
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\bin\Debug\ChiNhanh.pdb
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.csprojResolveAssemblyReference.cache
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.Form1.resources
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.Properties.Resources.resources
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.csproj.GenerateResource.Cache
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.exe
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.pdb
+E:\Z-TaiLieu\Lap trinh ung dung quan li 1\1560267-QuanLiQuanAn-DoAnNhom\ChiNhanh\obj\Debug\ChiNhanh.Form2.resources
